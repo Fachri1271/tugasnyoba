@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+.isian{
+}
+.isian-elemen{
+}
+.menus{
+	width:100%;
+	float:left;
+	margin-bottom:20px;
+}
+.menus .menu-atas{
+	float:left;
+	margin:0 10px 5px 0;	
+}
+.isi-kiri{
+	float:left;
+	text-align:justify;
+}
+.isi-kanan{
+}
+.opt-login{
+	width:100%;
+	border:1px solid #CCC;
+	overflow:auto;
+	padding:5px;
+
+	-webkit-box-shadow:0 0 5px #CCC;
+		-moz-box-shadow:0 0 5px #CCC;
+			box-shadow:0 0 5px #CCC;
+	
+	-webkit-border-radius: 5px;    
+		-moz-border-radius:3px;
+			-khtml-border-radius:3px;
+		 		border-radius: 3px;    
+
+	
+}.opt-login gambar-opt{
+	float:left;
+	margin-right:50px;
+}
+.logo-kanan{
+	width:100%;
+	border:1px solid #CCC;
+	overflow:auto;
+	padding:0px 0px 0 5px;
+	margin-top:0px;
+	
+	-webkit-box-shadow:0 0 2px #CCC;
+		-moz-box-shadow:0 0 2px #CCC;
+			box-shadow:0 0 2px #CCC;
+
+	-webkit-border-radius: 5px;    
+	-moz-border-radius:5px;
+	-khtml-border-radius:5px;
+		 border-radius: 5px;    
+}
+.eror-login{
+	max-width: 330px;
+	margin: 0 auto;
+}
+.pesan{
+	font:bold;
+}
+.eror{
+	padding:5px 5px 10px 5px;
+	margin:5px 0 5px 0;
+	border-radius:3px;
+	box-shadow:0 0 5px #999;
+	color:#ffffff;
+}
+.status, statusrubah{
+	padding:5px 5px 10px 5px;
+	margin:5px 0 5px 0;
+	border-radius:3px;
+	
+	box-shadow:0 0 5px #999;
+	color:#ffffff;
+}

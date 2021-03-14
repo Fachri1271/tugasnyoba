@@ -1,0 +1,3 @@
+default size: 180x180px
+
+banyak gambar yg gak keluar: penamaan file gambar tidak sama dgn yg di database.
